@@ -1,1 +1,1 @@
-# szaslonov_fantasy_repo
+# fantasy_repo
